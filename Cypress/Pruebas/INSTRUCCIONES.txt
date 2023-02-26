@@ -1,0 +1,5 @@
+1. Instalar las librerias en api y app con npm i
+2. Ejecutar el back-end
+3. Ejecutar en la direccion de la aplicación npm start
+4. Ejecutar en la direccion de la aplicación npm run open
+4. Crear archivo en cypress para pruebas.
