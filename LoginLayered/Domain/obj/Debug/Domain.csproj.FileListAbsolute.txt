@@ -1,0 +1,77 @@
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\bin\Debug\DataAccess.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,228 @@
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Form1.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Form2.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Form3.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormBienes.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCompras.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormAlmacen.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Almacen.MainMenuAlmacen.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Compras.MainMenuCompras.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Almacen.MainMenuAlmacen.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Compras.MainMenuCompras.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormBienes.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCompras.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormAlmacen.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Almacen.MainMenuAlmacen.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Compras.MainMenuCompras.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormBienes.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCompras.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormAlmacen.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Almacen.MainMenuAlmacen.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Compras.MainMenuCompras.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormBienes.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCaptcha.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCompras.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormAlmacen.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormNuevaContraseña.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.frmRecuperarContra.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRegistrar.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Almacen.MainMenuAlmacen.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Compras.MainMenuCompras.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormBienes.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCaptcha.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCompras.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormAlmacen.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormNuevaContraseña.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.frmRecuperarContra.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRegistrar.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRegistrarDos.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Presentation.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\WinFormAnimation.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\Domain.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\CircularProgressBar.xml
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Almacen.MainMenuAlmacen.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Compras.MainMenuCompras.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormBienes.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCaptcha.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormCompras.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormAlmacen.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormNuevaContraseña.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormPrincipal.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRecoverPassword.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.frmRecuperarContra.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRegistrar.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormRegistrarDos.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormUserProfile.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.FormWelcome.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.exe
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\RESPALDO_PROYECTO\APLICATIVO\0.3 PROTOTIPOS\ProyectoSeguridades\LoginLayered\Presentation\obj\Debug\Presentation.pdb

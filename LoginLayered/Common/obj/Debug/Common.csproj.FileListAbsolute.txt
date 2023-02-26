@@ -1,0 +1,29 @@
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.pdb
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.dll
+C:\Users\Wilmer\Documents\ESPE_IIP_2021\Aplicaciones Distribuidas\Parcial II\SEGURIDAD_DOTNET_GRUPO1\Seguridad Edit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.pdb
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.dll
+D:\Andrew\ESPE\Distribuidas\SegundoParcial\Formularios\Seguridad Edit\ProyectoSeguridadesEdit\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Common\bin\Debug\Common.pdb
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.dll
+C:\Users\kenne\OneDrive\Escritorio\MONSTER\TERCER PARCIAL\SEGURIDADES_LOGIN_PROYECTOS\PROYECTOS LOGIN DOTNET\P2.3. SEGURIDAD_DOTNET_ALQUINGA_PINTA_PUPIALES\CODIGO\ProyectoSeguridades\LoginLayered\Common\obj\Debug\Common.pdb
